@@ -1,0 +1,45 @@
+div.a {
+  position: relative;
+  width: 400px;
+  height: 200px;
+}
+  
+#projectButton:hover{
+    background-color: cyan   
+  }
+#projects{
+ display: none
+}
+
+div {
+  margin-left: 300px;
+    margin-right: 300px;
+}
+
+#image{
+    
+    height: 400px;
+    width:30%;
+    transform: rotate(180deg);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 50%;
+}
+#imageTwo{
+    justify-content: center;
+    height: 350spx;
+    width: 20%;
+    margin-left: 150px;
+}
+#imageThree{
+    justify-content:  center;
+    height: 350px;
+    width: 40%;
+}
+#imageFour{
+    justify-content: center;
+    height: 400px;
+    width: 60px%;
+}
